@@ -229,14 +229,6 @@ BEGIN
     INSERT INTO MATHANG(MAMH, TENMH)
     VALUES (@MAMH, @TENMH);
 END
-go
-go
-go
-go
-go
-go
-go
-go
 
 
 
